@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Social Networks!
+- <a href="https://www.linkedin.com/in/fernandohomemdacosta/">LinkedIn</a> 💼
+- <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
