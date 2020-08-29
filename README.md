@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Social Networks!
-- <a href="https://www.linkedin.com/in/fernandohomemdacosta/">LinkedIn</a> 💼
-- <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
+- Professional Profile: <a href="https://www.linkedin.com/in/fernandohomemdacosta/">LinkedIn</a> 💼
+- Academic Profile: <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
