@@ -19,4 +19,4 @@ Professional and enthusiast in the area of ​​Information Security with exper
 
 ## Social Networks!
 - You can find my professional profile on <a href="https://www.linkedin.com/in/fernandohomemdacosta/">LinkedIn</a> 💼
-- But, if you looking for my academic Profile here is my <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
+- But, if you looking for my academic profile here is my <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
