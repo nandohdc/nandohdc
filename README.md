@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Professional and enthusiast in the area of ​​Information Security with experience in penetration testing (pentest).
 
 ## Social Networks!
-- Professional Profile: <a href="https://www.linkedin.com/in/fernandohomemdacosta/">LinkedIn</a> 💼
-- Academic Profile: <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
+- You can find my professional profile on <a href="https://www.linkedin.com/in/fernandohomemdacosta/">LinkedIn</a> 💼
+- But, if you looking for my academic Profile here is my <a href="http://lattes.cnpq.br/1341398490665948">Lattes</a> ✍
